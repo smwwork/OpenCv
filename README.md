@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 Executive Summary  
-Visionary technology leader with 25+ years delivering transformation, innovation, and secure enterprise architecture across global organizations and government. Advisor to C-suite and boards, translating technical depth into business outcomes. Proven impact in modernization, automation, decentralization, and cost reduction—spanning automotive, aerospace, consumer tech, and digital infrastructure.
+Visionary technology leader with 25+ years delivering transformation, innovation, and secure enterprise architecture across global organizations and government. Advisor to C-suite and boards, translating technical depth into business outcomes. Proven impact in modernization, automation, decentralization, and cost reduction, spanning automotive, aerospace, consumer tech, and digital infrastructure.
 
 ---
 
@@ -23,11 +23,11 @@ Visionary technology leader with 25+ years delivering transformation, innovation
 ## 🎯 Enterprise Outcomes  
 - Reduced infra costs by ~30% and accelerated cloud strategy by 9 months  
 - Hardened global architecture with DNSSEC, TLS1.3—boosting resilience by 40%  
-- Built credential automation for 3,000+ accounts in 48 hrs—eliminated post-access risks  
+- Built credential automation for 3,000+ accounts in 48 hrs eliminating post-access risks  
 - Delivered global ERP integrations improving security, automation, and interoperability  
-- Modernized login experience from 5 min to 45 sec across multi-site orgs  
+- Modernised login user experience from over 5 min per user to approx. 45 sec across multi-site orgs  
 - Authored vendor-endorsed best-practice whitepaper on hardware/OS/database  
-- Streamlined container architecture reducing video streaming resource usage by ~90%  
+- Streamlined container architecture, reducing video streaming resource usage by ~90%  
 
 ---
 
