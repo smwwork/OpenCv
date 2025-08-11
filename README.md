@@ -95,7 +95,3 @@ Driving Licence: Clean
 Security Clearance: UK & US (Previous)
 
 ---
-
-
-You can name your repo something like steven-maclean-walker-cv, and this README becomes the face of your professional brand. Want me to mock up a sleek banner to top this off visually or help format it for GitHub Pages? I’d love to.
-
